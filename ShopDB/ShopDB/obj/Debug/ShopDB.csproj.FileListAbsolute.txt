@@ -1,0 +1,7 @@
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\obj\Debug\ShopDB.csprojAssemblyReference.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\obj\Debug\ShopDB.csproj.CoreCompileInputs.cache
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\bin\Debug\ShopDB.exe.config
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\bin\Debug\ShopDB.exe
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\bin\Debug\ShopDB.pdb
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\obj\Debug\ShopDB.exe
+C:\Users\Askar Kerimtay\Documents\GitHub\Shop\ShopDB\ShopDB\obj\Debug\ShopDB.pdb
